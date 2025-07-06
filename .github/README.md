@@ -694,6 +694,13 @@ https://codeberg.org/alicia/portainer-templates/raw/branch/main/templates.json
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/rhoggs-bot-test-account">
+            <img src="https://avatars.githubusercontent.com/u/22551806?v=4" width="80;" alt="rhoggs-bot-test-account"/>
+            <br />
+            <sub><b>Rhoggs-bot-test-account</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/shmolf">
             <img src="https://avatars.githubusercontent.com/u/6433103?v=4" width="80;" alt="shmolf"/>
             <br />
@@ -712,13 +719,6 @@ https://codeberg.org/alicia/portainer-templates/raw/branch/main/templates.json
             <img src="https://avatars.githubusercontent.com/u/2447303?v=4" width="80;" alt="tempusthales"/>
             <br />
             <sub><b>Gilbert Palau</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/rhoggs-bot-test-account">
-            <img src="https://avatars.githubusercontent.com/u/22551806?v=4" width="80;" alt="rhoggs-bot-test-account"/>
-            <br />
-            <sub><b>rhoggs-bot-test-account</b></sub>
         </a>
     </td></tr>
 <tr>
